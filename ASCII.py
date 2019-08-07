@@ -1,0 +1,6 @@
+print()
+print(ord('c'))
+print(ord(''))
+print(ord('1'))
+print(ord('#'))
+print()
